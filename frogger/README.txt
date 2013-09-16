@@ -1,7 +1,10 @@
 README
 Assn. 4 - Frogger Pt. 2
-Updated 3/6/13
+Updated 9/15/13
 By AJ Jenkins
+
+Update:
+Removed scorecenter code from game
 
 Features implemented:
 All Basic Features and Scoring.
