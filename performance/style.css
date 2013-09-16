@@ -1,0 +1,21 @@
+#game_div {
+    text-align: center;
+}
+
+#dialog {
+    background-color: white;
+    padding: 50px;
+}
+
+canvas {
+    background-color: #cb630a;
+    padding: 5px;
+    margin: 10px;
+    border-width: 60px;
+    border-color: #010101;
+    border-style: solid;
+}
+
+body {
+    background-color: #128138;
+}
