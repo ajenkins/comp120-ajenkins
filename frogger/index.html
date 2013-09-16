@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Frogger</title>
+<link rel="stylesheet" href="style.css">
+<script src="jquery-1.9.1.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+<script src="game.js"></script>
+</head>
+<body>
+    <div id="game_div">
+        <canvas id="game" height="565" width="399"></canvas>
+        <script>$(document).ready(start_game);</script>
+    </div>
+    
+    <!-- <div id="dialog">
+        <form name="submit_score" action="http://mysterious-beyond-1722.herokuapp.com/submit.json" method="post">
+            <p>Your Name: <input type="text" name="username" /></p>
+            <input type="hidden" name="game_title" value="Frogger" />
+            <input type="hidden" name="score" value="" />
+            <p><input type="submit" name="submit" value="Submit" /></p>
+        </form>
+    </div> -->
+</body>
+</html>
