@@ -3,5 +3,5 @@ index.html
 cat_script.min.js
 style.css
 assets/frogger_sprites.png
-jump.wav
-song.ogg
+assets/jump.wav
+assets/song.ogg
