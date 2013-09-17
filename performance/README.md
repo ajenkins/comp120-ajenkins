@@ -78,6 +78,8 @@ index.html = 24
 * Minified my Javascript file for game (used jscompress.com)
 * Concatenated jQuery and my script into one file, cat_script.js
 
-Note: I chose not to include the map file for jQuery, because they said it 
-would not affect performance, only developer debugging experience.
-
+####Optimizations Not Performed
+* I chose not to include the map file for jQuery, because they said it would not affect performance, only developer debugging experience.
+* YSLOW said I wasn't using expires headers, but PageSpeed said I was, and Github Pages doesn't let you change it anyway.
+* I did not move my CSS file out of the head, because when I did what PageSpeed suggested (put it at below the html tags as noscript), the CSS didn't load at all.
+* I also chose not to load Javascript asynchronously because the whole application is Javascript, so the user needs to wait for it to load anyway.
