@@ -83,3 +83,7 @@ index.html = 24
 * YSLOW said I wasn't using expires headers, but PageSpeed said I was, and Github Pages doesn't let you change it anyway.
 * I did not move my CSS file out of the head, because when I did what PageSpeed suggested (put it at below the html tags as noscript), the CSS didn't load at all.
 * I also chose not to load Javascript asynchronously because the whole application is Javascript, so the user needs to wait for it to load anyway.
+
+####How I tested the offline application cache
+
+####Performance analysis of game after optimizations
