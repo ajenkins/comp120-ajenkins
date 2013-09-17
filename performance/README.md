@@ -1,9 +1,10 @@
-**README
-Assignment 1 - Optimizing Frogger
-Created 9/15/13
-By AJ Jenkins**
+###README
+###Assignment 1 - Optimizing Frogger
+###Created 9/15/13
+###By AJ Jenkins
 
-*Performance analysis of my Frogger game before any optimizations*
+
+####Performance analysis of my Frogger game before any optimizations
 [Link to game](http://tuftsdev.github.io/comp120-ajenkins/frogger/index.html)
 
 - Google PageSpeed Insights -
@@ -65,7 +66,18 @@ jump.wav = 167
 frogger_sprites.png = 162
 index.html = 24
 
-*Optimizations Performed*
+####Optimizations Performed
 
+* Removed commented out code from index.html
+* Removed empty lines from index.html
+* Removed jquery-ui reference
+* Moved line that starts game on page load into game.js (i.e., removed inline script from index.html)
+* Moved script tags out of head into the bottom of the body
+* TEST THIS!: Is it faster to load jQuery from the web, or locally?
+* Switched from jQuery 1.9.1 to 2.0.3, because it's a smaller file
+* Minified my Javascript file for game (used jscompress.com)
+* Concatenated jQuery and my script into one file, cat_script.js
 
+Note: I chose not to include the map file for jQuery, because they said it 
+would not affect performance, only developer debugging experience.
 

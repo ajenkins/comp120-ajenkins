@@ -1,3 +1,5 @@
+$(document).ready(start_game);
+
 function start_game() {
     // Canvas
     width = 399;
