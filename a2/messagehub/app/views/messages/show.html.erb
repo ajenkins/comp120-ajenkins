@@ -1,2 +1,7 @@
-<h1>Messages#show</h1>
-<p>Find me in app/views/messages/show.html.erb</p>
+<h1>Message</h1>
+<div class="message">
+  <p>Message: <%= @message.content %></p>
+  <p>From: <%= @message.username %></p>
+  <p>At: <%= @message.created_at.rfc2822 %></p>
+</div>
+
