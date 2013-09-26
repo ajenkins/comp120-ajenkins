@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+apps = App.create([{app_title: 'ios', description: 'From iOS app'}, 
+                   {app_title: 'android', description: 'From Android app'}, 
+                   {app_title: 'web', description: 'From default web app'}, 
+                   {app_title: 'unknown', description: 'From an unknown source'}])

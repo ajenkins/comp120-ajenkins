@@ -1,11 +1,12 @@
 Messagehub::Application.routes.draw do
   get "messages/index"
-  get "messages/show"
+  get "messages/:id", to: "messages#show"
+  post "messages/create"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  # root 'welcome#index'
+  root 'messages#index'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
