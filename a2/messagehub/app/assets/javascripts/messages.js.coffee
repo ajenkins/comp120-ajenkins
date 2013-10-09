@@ -6,16 +6,13 @@ $ ->
   last_id = $('.messages').data "last"
   setInterval ->
     $.get "/messages.json", (data) ->
-      # $(".result").html data
-      # alert data[0].username
       renderNewMessages data, last_id
       last_id = data.length
-  , 5000
+      updateTimeAgo data
+  , 10000
   
   
 renderNewMessages = (data, last_id) ->
-  console.log "Data length: " + data.length
-  console.log "Last id: " + last_id
   i = data.length - last_id - 1
   while i >= 0
     prependMessage data[i]
@@ -27,7 +24,14 @@ prependMessage = (message) ->
     "<div class='message'>
       <p>Message: " + message.content + "</p>
       <p>From: " + message.username + "</p>
-      <p>When: " + message.created_at.timeago + " ago</p>
+      <p>When: <abbr class='timeago' title='" + message.created_at + "'>" + $.timeago(message.created_at) + "</abbr></p>
       <br>
     </div>"
   $('.messages').prepend formatted_msg
+  
+
+updateTimeAgo = (data) ->
+  $('.timeago').each (index, el) ->
+    element = $(el)
+    updated_time = $.timeago(element.attr('title'))
+    element.html updated_time

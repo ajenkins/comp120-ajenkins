@@ -4,7 +4,8 @@
     <div class="message">
       <p>Message: <%= message.content %></p>
       <p>From: <%= message.username %></p>
-      <p>When: <%= time_ago_in_words(message.created_at) %> ago</p>
+      <p>When: <%= tag(:abbr, class: "timeago", title: message.created_at.iso8601)%>
+        <%= time_ago_in_words(message.created_at) %> ago</abbr></p>
       <br>
     </div>
   <% end %>
