@@ -2,6 +2,6 @@
 <div class="message">
   <p>Message: <%= @message.content %></p>
   <p>From: <%= @message.username %></p>
-  <p>At: <%= @message.created_at.rfc2822 %></p>
+  <p>When: <%= time_ago_in_words(@message.created_at) %> ago</p>
 </div>
 

@@ -14,18 +14,18 @@
 ActiveRecord::Schema.define(version: 20130926205449) do
 
   create_table "apps", force: true do |t|
-    t.string   "app_title"
-    t.text     "description"
-    t.boolean  "active"
+    t.string   "app_title",                  null: false
+    t.text     "description",                null: false
+    t.boolean  "active",      default: true
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "messages", force: true do |t|
-    t.integer  "app_id"
-    t.string   "content"
-    t.string   "username"
-    t.boolean  "active"
+    t.integer  "app_id",                    null: false
+    t.string   "content",                   null: false
+    t.string   "username",                  null: false
+    t.boolean  "active",     default: true
     t.datetime "created_at"
     t.datetime "updated_at"
   end

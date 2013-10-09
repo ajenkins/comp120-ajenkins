@@ -4,7 +4,8 @@ class MessagesController < ApplicationController
   respond_to :json
   
   def index
-    @messages = Message.order("created_at ASC")
+    @messages = Message.order("created_at DESC")
+    @last_message_id = Message.count
   end
 
   def show

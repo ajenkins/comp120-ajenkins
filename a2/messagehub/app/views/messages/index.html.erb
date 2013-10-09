@@ -1,9 +1,12 @@
 <h1>All Messages</h1>
-<% @messages.each do |message| %>
-  <div class="message">
-    <p>Message: <%= message.content %></p>
-    <p>From: <%= message.username %></p>
-    <p>At: <%= message.created_at.rfc2822 %></p>
-    <br>
-  </div>
-<% end %>
+<%= tag(:div, class: "messages", data: {last: @last_message_id}) %>
+  <% @messages.each do |message| %>
+    <div class="message">
+      <p>Message: <%= message.content %></p>
+      <p>From: <%= message.username %></p>
+      <p>When: <%= time_ago_in_words(message.created_at) %> ago</p>
+      <br>
+    </div>
+  <% end %>
+</div>
+
