@@ -1,0 +1,392 @@
+TMobileMessages
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.pch MobileMessages/MobileMessages-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages normal i386
+cCopyStringsFile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/en.lproj/InfoPlist.strings MobileMessages/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Images.xcassets
+cProcessInfoPlistFile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Info.plist /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Info.plist
+cGenerateDSYMFile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages
+cTouch /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000528132C40000000000000176
+t1384198852
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005241BA6100000000000003B5
+t1380039265
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052706BE100000000000001A0
+t1383099361
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052706BE40000000000445870
+t1383099364
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052706BE7000000000088C680
+t1383099367
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052706BF00000000001DB9910
+t1383099376
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005241BADE0000000000000AC9
+t1380039390
+s2761
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.o
+t1384710061
+s65384
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.o
+t1384710061
+s41204
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.o
+t1384710061
+s41216
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MobileMessages.LinkFileList
+c000000005288FFA60000000000000328
+t1384710054
+s808
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.o
+t1384710061
+s3724
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/assetcatalog_dependencies.txt
+t1384710068
+s525
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/assetcatalog_generated_info.plist
+t1384710068
+s525
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.pch
+t1384710060
+s109016
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app
+t1384710068
+s306
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM
+t2
+s0
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Base.lproj/Main.storyboardc
+t1384710067
+s204
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Info.plist
+t1384710068
+s1145
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages
+t1384710062
+s18208
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/PkgInfo
+t1384710068
+s8
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/en.lproj/InfoPlist.strings
+t1384710062
+s42
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Base.lproj/Main.storyboard
+c000000005288FF78000000000000281F
+t1384710008
+s10271
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Images.xcassets
+c000000005288FF7800000000000000CC
+t1384710008
+s204
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m
+c000000005288FF7800000000000007E3
+t1384710008
+s2019
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m
+c000000005288FF78000000000000020F
+t1384710008
+s527
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m
+c000000005288FF780000000000000213
+t1384710008
+s531
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Info.plist
+c000000005288FF780000000000000590
+t1384710008
+s1424
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Prefix.pch
+c000000005288FF780000000000000158
+t1384710008
+s344
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/en.lproj/InfoPlist.strings
+c000000005288FF78000000000000002D
+t1384710008
+s45
+
+N/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m
+c000000005288FF78000000000000015B
+t1384710008
+s347
+
+CBuild AST from /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m
+r0
+
+CBuild AST from /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m
+r0
+
+CBuild AST from /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m
+r0
+
+CBuild AST from /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1190bf263739b841^ee40f1263739b841^---0#1#1#--18"Check dependencies36"7C7D655D-E5AA-4856-81CE-89EB71339653-
+
+CCompileAssetCatalog /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Images.xcassets
+s406402867.054972
+e406402868.810838
+r1
+xCompileAssetCatalog
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/LaunchImage-700-568h@2x.png
+o/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Assets.car
+o/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CompileAssetCatalog Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app MobileMessages/Images.xcassets127"CompileAssetCatalog Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app MobileMessages/Images.xcassets492b0e333739b841^3194cf343739b841^-553"/* com.apple.actool.compilation-results *//Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/LaunchImage-700-568h@2x.png/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Assets.car/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@97"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Images.xcassets/0000000000000000^1378"CompileAssetCatalog Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app MobileMessages/Images.xcassets    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Images.xcassets36"C0631A55-0A68-4C9F-9F62-45EB31F26AD9-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CCompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406402861.122363
+e406402861.294387
+r1
+xCompileC
+xBuild/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.o
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m248"CompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.o MobileMessages/MMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler69741f2d3739b841^70954b2d3739b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m0000000000000000^4416"CompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.o MobileMessages/MMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-generated-files.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-own-target-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-all-target-headers.hmap -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-project-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources/i386 -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources -F/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator -include /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch -MMD -MT dependencies -MF /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.d --serialize-diagnostics /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.dia -c /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.m -o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.o36"EEA48652-F22D-4663-B35F-88FE7C1594F1-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CCompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406402861.352962
+e406402861.435282
+r1
+xCompileC
+xBuild/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.o
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m264"CompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.o MobileMessages/MMFirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler817b5a2d3739b841^26706f2d3739b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m0000000000000000^4464"CompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.o MobileMessages/MMFirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-generated-files.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-own-target-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-all-target-headers.hmap -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-project-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources/i386 -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources -F/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator -include /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch -MMD -MT dependencies -MF /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.d --serialize-diagnostics /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.dia -c /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMFirstViewController.m -o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.o36"38B72245-DECE-4A33-91F9-14B9EC0CED55-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CCompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406402860.468498
+e406402861.121933
+r1
+xCompileC
+xBuild/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.o
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m266"CompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.o MobileMessages/MMSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4018782c3739b841^da371f2d3739b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m0000000000000000^4470"CompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.o MobileMessages/MMSecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-generated-files.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-own-target-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-all-target-headers.hmap -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-project-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources/i386 -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources -F/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator -include /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch -MMD -MT dependencies -MF /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.d --serialize-diagnostics /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.dia -c /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMSecondViewController.m -o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.o36"6B65FEB7-AB57-4E6D-85E2-26966B29BA04-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CCompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406402861.294756
+e406402861.352609
+r1
+xCompileC
+xBuild/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.o
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MMAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m230"CompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.o MobileMessages/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera6984b2d3739b841^28465a2d3739b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m0000000000000000^4362"CompileC Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.o MobileMessages/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-generated-files.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-own-target-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-all-target-headers.hmap -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-project-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources/i386 -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources -F/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator -include /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch -MMD -MT dependencies -MF /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.dia -c /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/main.m -o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.o36"BEDB87A1-BF5E-48A2-A991-3F4B2CA45E82-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CCompileStoryboard /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Base.lproj/Main.storyboard
+s406402862.426525
+e406402867.054434
+r1
+xCompileStoryboard
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard MobileMessages/Base.lproj/Main.storyboard59"CompileStoryboard MobileMessages/Base.lproj/Main.storyboard9c6a6d2e3739b841^faef0d333739b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Base.lproj/Main.storyboard0000000000000000^941"CompileStoryboard MobileMessages/Base.lproj/Main.storyboard    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Base.lproj/Main.storyboardc /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/Base.lproj/Main.storyboard36"F21869EA-290B-4C84-8D21-CDD6954BB4B6-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CCopyStringsFile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/en.lproj/InfoPlist.strings MobileMessages/en.lproj/InfoPlist.strings
+s406402862.362827
+e406402862.425882
+r1
+xCopyStringsFile
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/en.lproj/InfoPlist.strings
+xMobileMessages/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy MobileMessages/en.lproj/InfoPlist.strings161"CopyStringsFile Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/en.lproj/InfoPlist.strings MobileMessages/en.lproj/InfoPlist.stringsbc04632e3739b841^4a096d2e3739b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/en.lproj/InfoPlist.strings0000000000000000^703"CopyStringsFile Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/en.lproj/InfoPlist.strings MobileMessages/en.lproj/InfoPlist.strings    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/en.lproj -- MobileMessages/en.lproj/InfoPlist.strings36"5C650CF6-5CCE-4B64-8366-0DA4E6AD1508-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CGenerateDSYMFile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages
+s406402868.863240
+e406402869.063607
+r1
+xGenerateDSYMFile
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Generate /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM190"GenerateDSYMFile Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages1a14dd343739b841^454910353739b841^---0#0#1#-19%DVTDocumentLocation2@147"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM00343059dfffdf42^847"GenerateDSYMFile Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages -o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app.dSYM36"5F47C3FB-92C8-462F-96BE-3DE9CB1C2ED3-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CLd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages normal i386
+s406402861.436525
+e406402862.361432
+r1
+xLd
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages
+xnormal
+xi386
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MobileMessages.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMSecondViewController.o
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMAppDelegate.o
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/main.o
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MMFirstViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Link /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages106"Ld Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages normal i38690d76f2d3739b841^728c5c2e3739b841^---0#0#1#--1705"Ld Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages normal i386    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator -F/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator -filelist /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MobileMessages.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/Objects-normal/i386/MobileMessages_dependency_info.dat -o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/MobileMessages36"A4411051-F179-42B1-A3D2-F402FA7A6618-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CProcessInfoPlistFile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Info.plist /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Info.plist
+s406402868.812319
+e406402868.862208
+r1
+xProcessInfoPlistFile
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Info.plist
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Process /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Info.plist149"ProcessInfoPlistFile Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Info.plist MobileMessages/MobileMessages-Info.pliste10ad0343739b841^dfa4dd343739b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Info.plist0000000000000000^1129"ProcessInfoPlistFile Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Info.plist MobileMessages/MobileMessages-Info.plist    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Info.plist -genpkginfo /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/assetcatalog_generated_info.plist -o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app/Info.plist36"B6E90F00-26FB-4BC4-845A-BE873593ED88-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CProcessPCH /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.pch MobileMessages/MobileMessages-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406402854.943747
+e406402860.466743
+r1
+xProcessPCH
+x/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.pch
+xMobileMessages/MobileMessages-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile MobileMessages/MobileMessages-Prefix.pch260"ProcessPCH Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.pch MobileMessages/MobileMessages-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler17b7f1263739b841^fe7c772c3739b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Prefix.pch0000000000000000^4236"ProcessPCH Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.pch MobileMessages/MobileMessages-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-generated-files.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-own-target-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-all-target-headers.hmap -iquote /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/MobileMessages-project-headers.hmap -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources/i386 -I/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/MobileMessages.build/Debug-iphonesimulator/MobileMessages.build/DerivedSources -F/Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.dia -MMD -MT dependencies -MF /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.d -c /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/MobileMessages/MobileMessages-Prefix.pch -o /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Intermediates/PrecompiledHeaders/MobileMessages-Prefix-ftrwhwvlggxqkxbbqligmsjbsncl/MobileMessages-Prefix.pch.pch36"F05C929B-310B-475A-A44F-299F9F771D14-
+bC0350160-85EE-424C-B704-330A1D6EA720
+
+CProcessPCH /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Index/PrecompiledHeaders/MobileMessages-Prefix-hiczohhfendzmndyvfweikfwfpvr_ast/MobileMessages-Prefix.pch.pch MobileMessages/MobileMessages-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/PlasmaGlory/Desktop/comp120-ajenkins/MobileMessages/Build/MobileMessages/Build/Products/Debug-iphonesimulator/MobileMessages.app
+r0
+
